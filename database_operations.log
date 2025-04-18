@@ -1,0 +1,80 @@
+2024-08-29 21:07:03,237:INFO:Connecting to MySQL
+2024-08-29 21:07:03,351:INFO:Fetching all states for country ID: 100001
+2024-08-29 21:07:03,363:INFO:Fetching cities for state ID: 200001
+2024-08-29 21:07:03,363:INFO:Data written to andhrapradesh.json
+2024-08-29 21:07:03,374:INFO:Fetching cities for state ID: 200002
+2024-08-29 21:07:03,376:INFO:Data written to arunachalpradesh.json
+2024-08-29 21:07:03,376:INFO:Fetching cities for state ID: 200003
+2024-08-29 21:07:03,376:INFO:Data written to assam.json
+2024-08-29 21:07:03,379:INFO:Fetching cities for state ID: 200004
+2024-08-29 21:07:03,380:INFO:Data written to bihar.json
+2024-08-29 21:07:03,380:INFO:Fetching cities for state ID: 200005
+2024-08-29 21:07:03,384:INFO:Data written to chattisgarh.json
+2024-08-29 21:07:03,384:INFO:Fetching cities for state ID: 200006
+2024-08-29 21:07:03,386:INFO:Data written to goa.json
+2024-08-29 21:07:03,386:INFO:Fetching cities for state ID: 200007
+2024-08-29 21:07:03,387:INFO:Data written to gujarat.json
+2024-08-29 21:07:03,388:INFO:Fetching cities for state ID: 200008
+2024-08-29 21:07:03,390:INFO:Data written to haryana.json
+2024-08-29 21:07:03,390:INFO:Fetching cities for state ID: 200009
+2024-08-29 21:07:03,390:INFO:Data written to himachalpradesh.json
+2024-08-29 21:07:03,390:INFO:Fetching cities for state ID: 2000010
+2024-08-29 21:07:03,395:INFO:Data written to jammukashmir.json
+2024-08-29 21:07:03,396:INFO:Fetching cities for state ID: 2000011
+2024-08-29 21:07:03,398:INFO:Data written to jharkhand.json
+2024-08-29 21:07:03,398:INFO:Fetching cities for state ID: 2000012
+2024-08-29 21:07:03,401:INFO:Data written to karnataka.json
+2024-08-29 21:07:03,403:INFO:Fetching cities for state ID: 2000013
+2024-08-29 21:07:03,403:INFO:Data written to kerala.json
+2024-08-29 21:07:03,403:INFO:Fetching cities for state ID: 2000014
+2024-08-29 21:07:03,407:INFO:Data written to madhyapradesh.json
+2024-08-29 21:07:03,409:INFO:Fetching cities for state ID: 2000015
+2024-08-29 21:07:03,411:INFO:Data written to maharashtra.json
+2024-08-29 21:07:03,411:INFO:Fetching cities for state ID: 2000016
+2024-08-29 21:07:03,413:INFO:Data written to manipur.json
+2024-08-29 21:07:03,413:INFO:Fetching cities for state ID: 2000017
+2024-08-29 21:07:03,415:INFO:Data written to meghalaya.json
+2024-08-29 21:07:03,415:INFO:Fetching cities for state ID: 2000018
+2024-08-29 21:07:03,415:INFO:Data written to mizoram.json
+2024-08-29 21:07:03,415:INFO:Fetching cities for state ID: 2000019
+2024-08-29 21:07:03,419:INFO:Data written to nagaland.json
+2024-08-29 21:07:03,419:INFO:Fetching cities for state ID: 2000020
+2024-08-29 21:07:03,422:INFO:Data written to orissa.json
+2024-08-29 21:07:03,422:INFO:Fetching cities for state ID: 2000021
+2024-08-29 21:07:03,423:INFO:Data written to punjab.json
+2024-08-29 21:07:03,423:INFO:Fetching cities for state ID: 2000022
+2024-08-29 21:07:03,426:INFO:Data written to rajasthan.json
+2024-08-29 21:07:03,427:INFO:Fetching cities for state ID: 2000023
+2024-08-29 21:07:03,428:INFO:Data written to sikkim.json
+2024-08-29 21:07:03,428:INFO:Fetching cities for state ID: 2000024
+2024-08-29 21:07:03,428:INFO:Data written to tamilnadu.json
+2024-08-29 21:07:03,428:INFO:Fetching cities for state ID: 2000025
+2024-08-29 21:07:03,428:INFO:Data written to tripura.json
+2024-08-29 21:07:03,428:INFO:Fetching cities for state ID: 2000026
+2024-08-29 21:07:03,428:INFO:Data written to uttarakhand.json
+2024-08-29 21:07:03,428:INFO:Fetching cities for state ID: 2000027
+2024-08-29 21:07:03,439:INFO:Data written to uttarpradesh.json
+2024-08-29 21:07:03,439:INFO:Fetching cities for state ID: 2000028
+2024-08-29 21:07:03,443:INFO:Data written to westbengal.json
+2024-08-29 21:07:03,443:INFO:Fetching cities for state ID: 2000029
+2024-08-29 21:07:03,443:INFO:Data written to andamannicobar.json
+2024-08-29 21:07:03,443:INFO:Fetching cities for state ID: 2000030
+2024-08-29 21:07:03,446:INFO:Data written to chandigarh.json
+2024-08-29 21:07:03,446:INFO:Fetching cities for state ID: 2000031
+2024-08-29 21:07:03,446:INFO:Data written to dadranagarhaweli.json
+2024-08-29 21:07:03,446:INFO:Fetching cities for state ID: 2000032
+2024-08-29 21:07:03,450:INFO:Data written to damandiu.json
+2024-08-29 21:07:03,450:INFO:Fetching cities for state ID: 2000033
+2024-08-29 21:07:03,451:INFO:Data written to delhi.json
+2024-08-29 21:07:03,451:INFO:Fetching cities for state ID: 2000034
+2024-08-29 21:07:03,453:INFO:Data written to lakshadweep.json
+2024-08-29 21:07:03,453:INFO:Fetching cities for state ID: 2000035
+2024-08-29 21:07:03,453:INFO:Data written to pondicherry.json
+2024-08-29 21:07:03,453:INFO:Fetching cities for state ID: 2000036
+2024-08-29 21:07:03,453:INFO:Data written to telangana.json
+2024-08-29 21:07:03,453:INFO:Fetching cities for state ID: 2000037
+2024-08-29 21:07:03,453:INFO:No cities found for state: Badakhshan (ID: 2000037)
+2024-08-29 21:07:03,457:INFO:Fetching cities for state ID: 2000221
+2024-08-29 21:07:03,457:INFO:No cities found for state: 12a (ID: 2000221)
+2024-08-29 21:07:03,457:INFO:All data processed successfully.
+2024-08-29 21:07:03,457:INFO:MySQL connection is closed

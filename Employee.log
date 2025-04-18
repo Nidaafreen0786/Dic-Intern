@@ -1,0 +1,9 @@
+2024-06-27 16:46:52,536 - INFO - Starting data processing...
+2024-06-27 16:46:52,552 - INFO - Read 5085 rows from C:/Users/nidab/Desktop/DIC INTERN NIDA/logging/states.csv
+2024-06-27 16:46:53,069 - INFO - Read 150635 rows from C:/Users/nidab/Desktop/DIC INTERN NIDA/logging/cities.csv
+2024-06-27 16:46:53,084 - ERROR - Unexpected error : name 'output_file_parquet' is not defined
+2024-06-27 16:49:10,010 - INFO - Starting data processing...
+2024-06-27 16:49:10,026 - INFO - Read 5085 rows from C:/Users/nidab/Desktop/DIC INTERN NIDA/logging/states.csv
+2024-06-27 16:49:10,575 - INFO - Read 150635 rows from C:/Users/nidab/Desktop/DIC INTERN NIDA/logging/cities.csv
+2024-06-27 16:49:11,281 - INFO - Wrote 5085 rows to C:/Users/nidab/Desktop/DIC INTERN NIDA/logging/citystate.parquet
+2024-06-27 16:49:11,281 - INFO - Combined data written to C:/Users/nidab/Desktop/DIC INTERN NIDA/logging/citystate.parquet
